@@ -1,1 +1,1 @@
-# Projects
+# CPI Case Study Projects
